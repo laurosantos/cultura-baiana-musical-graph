@@ -48,3 +48,9 @@ A versão 0.1.0 possui apenas uma funcionalidade:
 - impressão do grafo no elemento `<head>` da página.
 
 Não há geração automática de schemas, interface administrativa própria, validação semântica ou integração com ontologias nesta versão.
+
+## Licença
+
+Distribuído sob a licença GNU General Public License v2.0 ou posterior
+(GPL-2.0-or-later), conforme a convenção dos plugins WordPress.
+O texto completo está no arquivo `LICENSE`.
